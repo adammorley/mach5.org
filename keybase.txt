@@ -1,0 +1,50 @@
+I hereby claim:
+
+  * I am an admin of http://mach5.org
+  * I am adammorley (https://keybase.io/adammorley) on keybase.
+  * I have a public key ASCtbi-zWGSsoQtohIdzbeZCvkKKrDuw3ymhNiWd_ylUVwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ad6e2fb35864aca10b688487736de642be428aac3bb0df29a136259dff2954570a",
+      "host": "keybase.io",
+      "kid": "0120ad6e2fb35864aca10b688487736de642be428aac3bb0df29a136259dff2954570a",
+      "uid": "d3831707422c669a04cfd4a82cc89119",
+      "username": "adammorley"
+    },
+    "merkle_root": {
+      "ctime": 1556660239,
+      "hash": "c5df73a7b8b1c25b07ee86effdcd6547b5ec5d979056e995269f6b1ad237b25f4b360cf7516a9ac0f74c4d0d9e8d567ad84342d900fd6c98072516cb0def4ce8",
+      "hash_meta": "b6a1b27b138421627c34552a83901fe01f17cecd6d2773145f12f9884d9339e9",
+      "seqno": 5273405
+    },
+    "service": {
+      "entropy": "mzCYOlwCMZbn4n30k1lnUfc0",
+      "hostname": "mach5.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1556660258,
+  "expire_in": 504576000,
+  "prev": "263f540e6711a84e9a8a69f5e0d19f94a6d13c32fd785141abdfd65d35f60b27",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrW4vs1hkrKELaISHc23mQr5Ciqw7sN8poTYlnf8pVFcKp3BheWxvYWTESpcCEsQgJj9UDmcRqE6aimn14NGflKbRPDL9eFFBq9/WXTX2CyfEIOot1NOW5KraQVDg83TzzjZ4QxKu+JdEi3wIbJuiWrDNAgHCo3NpZ8RA/e6LJ5SSV0xj2xxewWmHTBOTuSxaArwZuu7a2WDqGuRPyLcoMzPbtX8AQtnLY25/sTKeozlQajccNhvnS4T/CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGQmrx49r0A3pW0KZmrnl9fcYacXjyZwQBevEJ4GmE2do3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adammorley
